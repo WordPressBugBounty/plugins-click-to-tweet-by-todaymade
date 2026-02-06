@@ -3,8 +3,8 @@ Contributors: CoSchedule
 Donate link: https://coschedule.com/click-to-tweet
 Tags: click to tweet, twitter, tweet, twitter plugin, Twitter boxes, share, social media, auto post
 Requires at least: 3.1
-Tested up to: 4.9.8
-Stable tag: 1.4
+Tested up to: 6.8
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,8 @@ Find out more here: [http://coschedule.com/click-to-tweet](http://coschedule.com
 4. Click To Tweet box on a sample blog.
 
 == Changelog ==
+= 1.5 =
+* Update WordPress compatibility version
 
 = 1.4 =
 * Improved support for twitter 280 character length
@@ -66,6 +68,8 @@ Find out more here: [http://coschedule.com/click-to-tweet](http://coschedule.com
 * Initial Release
 
 == Upgrade Notice ==
+= 1.5 =
+* Update WordPress compatibility version
 
 = 1.4 =
 * This update fixes the max length tweet to 280 characters
